@@ -1,6 +1,6 @@
 Protocol: Reserving a Room for an Event
 
-1. https://25live.collegenet.com/emory/
+1. <https://25live.collegenet.com/emory/>
 2. Sign in with Emory ID
 3. Under Quick Search, search the location: e.g. AMUC 235 
 4. Check availability by clicking the room of interest
